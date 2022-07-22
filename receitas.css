@@ -1,4 +1,4 @@
-* {
+body{
 
     background-color: white;
     color: black;
@@ -8,8 +8,13 @@
 
 
 img {
-    height: 374px;
-    width: 883px;
+top: 25px;
+left: 22px;
+width: 883px;
+height: 374px;
+border: 1px solid #707070;
+opacity: 1;
+
 }
 
 .aside {
@@ -76,13 +81,23 @@ img {
     color: #000000;
     opacity: 1;
 }
+.mododepreparo{
+    top: 1675px;
+left: 61px;
+width: 844px;
+height: 380px;
+text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
 
 h3 {
-    top: 1117px;
+    top: 1599px;
     left: 21px;
-    width: 235px;
+    width: 315px;
     height: 42px;
-    /* UI Properties */
     text-align: left;
     font: normal normal 900 34px/42px Montserrat;
     letter-spacing: 0px;
@@ -113,3 +128,73 @@ ol {
     color: #000000;
     opacity: 1;
 }
+.linea3{
+top: 1565px;
+left: 22px;
+width: 883px;
+height: 0px;
+border: 5px solid #999999;
+opacity: 1
+}
+.linea2{
+    top: 1083px;
+left: 22px;
+width: 883px;
+height: 0px;
+border: 5px solid #999999;
+opacity: 1;
+}
+.linea1{
+    top: 931px;
+    left: 22px;
+    width: 883px;
+    height: 0px;
+    border: 5px solid #999999;
+    opacity: 1; 
+}
+.linea4{
+    top: 2089px;
+left: 22px;
+width: 883px;
+height: 0px;
+border: 5px solid #999999;
+opacity: 1;
+}
+.rendimento{
+    top: 1024px;
+left: 21px;
+width: 302px;
+height: 25px;
+text-align: left;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.preparo{
+    top: 965px;
+left: 21px;
+width: 258px;
+height: 25px;
+text-align: left;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+span{
+    top: 0px;
+left: 0px;
+width: 166px;
+height: 25px;
+text-align: left;
+font: normal normal 900 21px/25px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+ }
+ .video{
+    top: 2200px;
+left: 22px;
+width: 883px;
+height: 497px;
+border: 1px solid #707070;
+opacity: 1;
+ }
